@@ -29,7 +29,7 @@ export function AppMockupPreview() {
         <span className="text-xs font-semibold uppercase tracking-widest text-brand-accent">
           One App • Fast Delivery
         </span>
-        <h3 className="mt-1 text-2xl font-bold text-brand-green">Davinton</h3>
+        <h3 className="mt-1 text-2xl font-bold text-brand-green">Davintom</h3>
       </div>
 
       <div className="mt-6 space-y-3">
@@ -39,7 +39,7 @@ export function AppMockupPreview() {
             href={item.href}
             className="flex items-center justify-between rounded-2xl border border-brand-green/12 bg-white p-3 sm:p-4 shadow-xs transition hover:-translate-y-0.5 hover:border-brand-green/30"
           >
-            <div>
+            <div className="">
               <p className="font-semibold text-base md:text-lg text-brand-green">{item.title}</p>
               <p className="mt-0.5 text-[10px] sm:text-xs text-brand-ink/70">{item.subtitle}</p>
             </div>
@@ -51,7 +51,7 @@ export function AppMockupPreview() {
       </div>
       <Link
         href="/explore"
-        className="mt-4 block w-full rounded-full bg-brand-accent py-2 sm:py-3.5 text-center text-xs sm:text-sm font-bold text-white shadow-sm transition hover:bg-brand-accent-hover"
+        className="mt-4 block w-full rounded-full bg-brand-accent py-2.5 sm:py-3.5 text-center text-xs sm:text-sm font-bold text-white shadow-sm transition hover:bg-brand-accent-hover"
       >
         Order Now
       </Link>
