@@ -18,7 +18,7 @@ const Footer = () => {
             </p>
             <p className="mt-2">Ile-Ife, Osun State, Nigeria</p>
             <p className="mt-1">partnerships@davintom.com</p>
-            <p className="mt-1">+234 000 000 0000</p>
+            <p className="mt-1">+234 813 741 4398</p>
           </div>
 
           <div className="flex flex-col gap-2 text-sm md:items-end">

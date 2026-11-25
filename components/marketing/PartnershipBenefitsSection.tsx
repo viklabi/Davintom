@@ -1,6 +1,6 @@
 export function PartnershipBenefitsSection() {
   return (
-    <section id="benefits" className="mx-auto max-w-6xl px-6 py-16 md:py-20">
+    <section id="benefits" className="scroll-mt-15 mx-auto max-w-6xl px-6 py-16 md:py-20">
       <div className="max-w-2xl">
         <p className="text-xs font-bold uppercase tracking-wider text-brand-accent">
           Partnership Benefits

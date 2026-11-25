@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export function CommissionSplitSection() {
   return (
-    <section id="commission" className="mx-auto max-w-6xl px-6 pb-20">
+    <section id="commission" className="scroll-mt-18 mx-auto max-w-6xl px-6 pb-20">
       <div className="grid gap-8 rounded-3xl bg-brand-green p-8 text-white md:p-12 lg:grid-cols-12 lg:items-center">
         <div className="lg:col-span-7">
           <p className="text-xs font-bold uppercase tracking-wider text-amber-200">

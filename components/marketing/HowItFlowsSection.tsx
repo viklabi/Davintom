@@ -25,7 +25,7 @@ export function HowItFlowsSection() {
   return (
     <section
       id="how-it-flows"
-      className="border-y border-brand-green/10 bg-white py-16 md:py-20"
+      className="scroll-mt-15 border-y border-brand-green/10 bg-white py-16 md:py-20"
     >
       <div className="mx-auto max-w-6xl px-6">
         <div className="max-w-2xl">
