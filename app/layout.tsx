@@ -15,7 +15,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-    title: {
+  metadataBase: new URL("https://davintom.com"),
+  title: {
     default: "Davintom | Livestock & Meat Distribution, Reimagined",
     template: "%s | Davintom", 
   },
